@@ -1,2 +1,0 @@
-# Temperature-sensor
-In the beginning, we had a program that contains all the STM32 basic sensors (Temperature,pressure,humidity,GYRO). In this project, we removed all the functions related to other sensors in order to make a program that is only related to the temperature one. This simplification shows that we fully understood the main program so that we are able now to write a program for each sensor independently.
